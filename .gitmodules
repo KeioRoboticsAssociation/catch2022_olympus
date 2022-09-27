@@ -1,0 +1,3 @@
+[submodule "catch2022_firmware"]
+	path = catch2022_firmware
+	url = https://github.com/hirobon1690/catch2022_firmware.git
