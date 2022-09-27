@@ -1,3 +1,7 @@
 [submodule "catch2022_firmware"]
 	path = catch2022_firmware
 	url = https://github.com/hirobon1690/catch2022_firmware.git
+[submodule "Catch2022_Olympus"]
+	path = Catch2022_Olympus
+	url = https://github.com/long-paddy-field/Catch2022_Olympus.git
+	branch = main
