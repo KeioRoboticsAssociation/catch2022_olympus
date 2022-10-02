@@ -1,1 +1,2 @@
-
+zipファイルに入っているのはstepファイルです。
+何か質問のある方は[@thallos81](https://twitter.com/thallos81)まで…
